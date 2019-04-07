@@ -1,4 +1,4 @@
-<h1 align="center">Trabalho Pratico 2<h1>
+<h1 align="center">Trabalho Pratico 2</h1>
 <p align="justify">
 Depois de aprender a usar vetores dinâmicos e laços de repetição no curso de Programação de Computadores, Joãozinho começou a procurar novos desafios e decidiu testar suas habilidades criando uma competição de programação com seus amigos.
 A competição consiste em classificar e resolver um determinado número de questões de programação. O tempo de solução é um ponto importante para a competição e cada participante deverá preencher uma ficha durante o concurso indicando para cada questão:
