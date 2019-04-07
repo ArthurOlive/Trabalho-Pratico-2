@@ -17,7 +17,8 @@ Horário de fim da resolução (no formato horas e minutos)
 <p align="justify">
 Ao final do concurso, Joãozinho quer mostrar aos participantes algumas estatísticas. Ajude Joãozinho escrevendo um programa que colete as informações das fichas e apresente um sumário do concurso, como mostrado abaixo.
 </p>
-<img src=""/>
+<img src="https://github.com/ArthurOlive/Trabalho-Pratico-2/blob/master/git_imgs/im1.JPG"/>
+<img src="https://github.com/ArthurOlive/Trabalho-Pratico-2/blob/master/git_imgs/im2.JPG"/>
 <h2 align="center">INSTRUÇÕES</h2>
 <p align="justify">
 O programa deve pedir o número de participantes e o número de questões e usar essas informações para criar um vetor dinâmico de questões, que conterá as informações coletadas a partir da ficha do concurso.
@@ -46,11 +47,11 @@ Vetor dinâmico de participantes
 <p align="justify">
 O vetor de questões deverá guardar todas as questões do concurso. Supondo que houvessem 4 participantes e 3 questões (A, B e C), o vetor teria a seguinte organização dos dados:
   </p>
-  <img src=""/>
+  <img src="https://github.com/ArthurOlive/Trabalho-Pratico-2/blob/master/git_imgs/im3.JPG"/>
  <p align="center">
  Cada elemento do vetor de participantes deve conter o nome do participante e o endereço onde iniciam suas informações no vetor de questões.
   </p>
-  <img src = ""/>
+  <img src = "https://github.com/ArthurOlive/Trabalho-Pratico-2/blob/master/git_imgs/im4.JPG"/>
   <p>
   Para resolver o problema, construa e use pelo menos as seguintes funções:
   </p>
